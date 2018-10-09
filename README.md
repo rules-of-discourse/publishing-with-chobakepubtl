@@ -1,2 +1,2 @@
 # publishing-with-chobakepubtl
-The definitive guide to publishing ebooks with the -chobakepubtl- utility
+The official tutorial guide to the -chobakepubtl- utility
